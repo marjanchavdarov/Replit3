@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 a1f297b10f8f0b0c29ef974eb35eded1796f0c09 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745065851 +0000	commit (initial): Initial commit
+a1f297b10f8f0b0c29ef974eb35eded1796f0c09 4b9101555b95b097d9a8991e0ef9caba73237e7f mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745065852 +0000	commit: Initial checkpoint
+4b9101555b95b097d9a8991e0ef9caba73237e7f aed6be39ad6b76b6b743961c5a93c14c20114c83 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745066264 +0000	commit: Add the game's front-end and project setup
+aed6be39ad6b76b6b743961c5a93c14c20114c83 6e5d4bba828cf467eef0cd38ad964b38eaa0b7fb mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745066747 +0000	commit: Improves multiplayer game room creation
+6e5d4bba828cf467eef0cd38ad964b38eaa0b7fb 2e446a3479c6bd1a8c1913944866f58576c4e286 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745066925 +0000	commit: Adds a database for game data
+2e446a3479c6bd1a8c1913944866f58576c4e286 61d555520e08a60575456d25e47fa722f3fefc91 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745067192 +0000	commit: Adds game stats and room viewing
+61d555520e08a60575456d25e47fa722f3fefc91 ef7eeb4150adecbcad669bfecf30105b09c92f2b mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745067341 +0000	commit: Adds player readiness and move-making features
+ef7eeb4150adecbcad669bfecf30105b09c92f2b bfec5783b89677fcc6b0d064bd2d844223b3c829 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745067465 +0000	commit: Adds game completion and details
+bfec5783b89677fcc6b0d064bd2d844223b3c829 e5c0e6d30ff058deda8a12c4d30066541e1ab6ff mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745067571 +0000	commit: Adds player leaderboards
+e5c0e6d30ff058deda8a12c4d30066541e1ab6ff 0e39e8f7c35960137514e22accf62b212d2b5330 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745068607 +0000	commit: Adds player statistics tracking
+0e39e8f7c35960137514e22accf62b212d2b5330 ba15be8deafd1ecc4c5f0673e769e9c2617dcca4 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745069165 +0000	commit: Added a way to share the Tabla Max project
+ba15be8deafd1ecc4c5f0673e769e9c2617dcca4 4f204e0655a979655176783d9467ef748690dcea mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745069639 +0000	commit: Improved game testing and documentation
+4f204e0655a979655176783d9467ef748690dcea b9284120fe193c808b08c7a199fb28c0bd98e7c1 mcavdarov <41701061-mcavdarov@users.noreply.replit.com> 1745069682 +0000	commit: Improved the game's data handling
